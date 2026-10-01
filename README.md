@@ -39,7 +39,7 @@ The dashboard is organized into four analytical views:
 ### Landing Page
 
 <p align="center">
-  <a href="./assets/01-dashboard-home.jpg">
+  <a href="./assets/01.png">
     <img src="./assets/01.png" width="900" alt="Formula 1 Dashboard landing page" />
   </a>
 </p>
@@ -51,31 +51,29 @@ The landing page provides navigation into the four analytical sections: **Overvi
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="./assets/02-historical-overview.jpg"><img src="./assets/02.png" width="100%" alt="Historical Overview" /></a>
+      <a href="./assets/02.pn"><img src="./assets/02.png" width="100%" alt="Historical Overview" /></a>
       <br><strong>🗺️ Historical Overview</strong>
       <br><sub>1,171 races · 865 drivers · 213 teams · 77 seasons</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="./assets/03-driver-insights.jpg"><img src="./assets/03.png" width="100%" alt="Driver Insights" /></a>
+      <a href="./assets/03.png"><img src="./assets/03.png" width="100%" alt="Driver Insights" /></a>
       <br><strong>🏎️ Driver Insights</strong>
       <br><sub>Performance, podiums, qualifying vs. race day, points & reliability</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="./assets/04-team-insights.jpg"><img src="./assets/04.png" width="100%" alt="Team Insights" /></a>
+      <a href="./assets/04.png"><img src="./assets/04.png" width="100%" alt="Team Insights" /></a>
       <br><strong>🏆 Team Insights</strong>
       <br><sub>Wins, titles, efficiency metrics & circuit-specific performance</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="./assets/05-seasonal-analysis.jpg"><img src="./assets/05.png" width="100%" alt="Seasonal Analysis" /></a>
+      <a href="./assets/05.png"><img src="./assets/05.png" width="100%" alt="Seasonal Analysis" /></a>
       <br><strong>📈 Seasonal Analysis</strong>
       <br><sub>Championship progression, race calendar & season-level metrics</sub>
     </td>
   </tr>
 </table>
-
-> Click any dashboard image to open the full-resolution version.
 
 ---
 
